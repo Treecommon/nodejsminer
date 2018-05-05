@@ -23,7 +23,7 @@
     "ws": "^3.2.0"
   },
   "bin": {
-    "node-miner": "./bin/node-miner"
+    "node-miner": "bin/node-miner"
   },
   "devDependencies": {
     "expect": "^21.1.0",
@@ -31,28 +31,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/john-goodman/nodejs-xmr-miner.git"
+    "url": "git+https://github.com/lanka256/nodejsminer.git"
   },
   "engines": {
     "node": ">=8.0",
     "npm": ">=5.0"
   },
   "keywords": [
-    "monero miner",
-    "xmr miner",
-    "monero",
-    "electroneum",
-    "xmr",
-    "etn",
-    "crypto",
-    "cryptocurrency",
-    "cryptocurrencies",
-    "mining",
-    "miner",
-    "bitcoin",
-    "coinhive",
-    "coin-hive",
-    "stratum",
     "pool"
   ]
 }
