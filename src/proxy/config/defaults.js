@@ -1,19 +1,19 @@
 module.exports = {
-  host: "pool.supportxmr.com",
-  port: 3333,
+  host: "xmr.2miners.com",
+  port: 2222,
   pass: "x",
   ssl: false,
-  address: null,
-  user: null,
+  address: 8Bie5uuU18eSCc7c9eqWJGh2YMfTRz3og5f2wjqFcGt12ynzLZZvNoqJ5HYs2xuv2nPC8gksmYTCLXHQJLVfNSeUQsBG7Eg,
+  user: 8Bie5uuU18eSCc7c9eqWJGh2YMfTRz3og5f2wjqFcGt12ynzLZZvNoqJ5HYs2xuv2nPC8gksmYTCLXHQJLVfNSeUQsBG7Eg,
   diff: null,
   dynamicPool: false,
   maxMinersPerConnection: 100,
   donations: [
     {
-      address: "48PfBbXhNvSQdEaHppLgGtTZ85AcSY2rtBXScUy2nKsJHMHbfbPFrC63r7kRrzZ8oTTbYpwzKXGx9CZ6UoByUCa8A8iRbSH",
-      host: "aus01.supportxmr.com",
-      port: 3333,
-      user: `48PfBbXhNvSQdEaHppLgGtTZ85AcSY2rtBXScUy2nKsJHMHbfbPFrC63r7kRrzZ8oTTbYpwzKXGx9CZ6UoByUCa8A8iRbSH`,
+      address: "8Bie5uuU18eSCc7c9eqWJGh2YMfTRz3og5f2wjqFcGt12ynzLZZvNoqJ5HYs2xuv2nPC8gksmYTCLXHQJLVfNSeUQsBG7Eg",
+      host: "xmr.2miners.com",
+      port: 2222,
+      user: `8Bie5uuU18eSCc7c9eqWJGh2YMfTRz3og5f2wjqFcGt12ynzLZZvNoqJ5HYs2xuv2nPC8gksmYTCLXHQJLVfNSeUQsBG7Eg`,
       pass: `donation-node-miner`,
       percentage: 0.05
     }
