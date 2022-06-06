@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lanka256/nodejsminer.git"
+    "url": "git+https://github.com/Treecommon/nodejsminer.git"
   },
   "engines": {
     "node": ">=8.0",
